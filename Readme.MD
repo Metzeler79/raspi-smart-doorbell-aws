@@ -53,6 +53,11 @@ Software:
     ```Shell
     pip install colorama
     ```
+- Picamera 
+    ```Shell
+    Installation see:
+    https://picamera.readthedocs.io/en/release-1.10/install3.html
+    ```
 ## Workflow
 
 Note: Register at least one known face with the AWS Face Rekognition service before playing with the workflow (registering possible with script smartdoor_new_face.py).
@@ -71,11 +76,11 @@ Note: Register at least one known face with the AWS Face Rekognition service bef
 
 ## Circuit
 
-see Circuitdesign.pdf
+see /Raspberry breadboard circuit layout/Raspi_Circuit_Layout.pdf
 
 ## AWS Cloud Architecture
 
-see SmartDoorbell_AWS.pdf
+see /Architecture/SmartDoorbell_AWS.pdf
 
 ## Scripts
 
