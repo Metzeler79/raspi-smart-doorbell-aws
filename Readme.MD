@@ -5,7 +5,7 @@ Some parts of the code for this project are inspired by: https://softwaremill.co
 
 ## Overview
 
-This little project simulates a smart doorbell. Smart features include face recognition and playing a personalized greeting message on a speaker. The design uses several AWS cloud services which can be provisioned with a Cloudformation template quickly.
+This little project builds a smart doorbell. Smart features include face recognition and playing a personalized greeting message on a speaker. The design uses several AWS cloud services which can be provisioned with a Cloudformation template quickly.
 
 I started with this project in order to play around with different AWS services, especially IoT, Cloudformation and Lambda in a simulated real world scenrario based on Raspberry Pi.
 
