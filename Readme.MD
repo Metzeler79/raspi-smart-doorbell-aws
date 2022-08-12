@@ -1,7 +1,4 @@
 # Raspberry Pi smart doorbell project
-## Disclaimer
-
-Some parts of the code for this project are inspired by: https://softwaremill.com/access-control-system-with-rfid-and-amazon-rekognition/
 
 ## Overview
 
@@ -229,3 +226,7 @@ Lambda function code (Lambda functions are created by the AWS cloudformation tem
 - cf_FaceRekognitionService_V1.2.0.yaml
 
     Cloudformation template that defines the AWS ressources required for the smart door bell service.
+
+## Remark
+
+Some parts of the code for this project are inspired by: https://softwaremill.com/access-control-system-with-rfid-and-amazon-rekognition/
