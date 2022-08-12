@@ -184,7 +184,7 @@ python smartdoor_new_face.py -n <name> -a <APIAccessKey> -s <APISecret> -b <Buck
 ```
 ### smartdoor.py
 
-This script implements the smart door bell service and interacts with the circuit and the AWS Cloud/IoT ressources.
+This script runs the smart door bell service on the Raspberry Pi and interacts with the circuit and the AWS Cloud/IoT ressources.
 ```Shell
 Parameter:
 -e, --endpoint
